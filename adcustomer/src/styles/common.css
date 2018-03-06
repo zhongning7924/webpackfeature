@@ -1,0 +1,9 @@
+.button-group button+button{
+   margin-left:10px 
+}
+.common-content{
+	padding: 15px; 
+}
+.table-info{
+	margin-top: 15px
+}

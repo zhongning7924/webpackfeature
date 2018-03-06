@@ -1,0 +1,50 @@
+.datail-date .ant-modal-footer{
+    display:  none;
+}
+.recharge-detail .ant-modal-footer{
+    display:  none;
+}
+.datail-date .date-show{
+	text-align: center;
+	margin: 0 auto;
+	margin-bottom: 15px;
+}
+.date-content{
+	display: inline-block;
+	position: relative;
+	margin-left: 5px;
+	margin-right: 5px
+}
+.date-content .show-input{
+	position: absolute;
+	display: inline-block;
+	z-index: 10;
+	width: 180px;
+	text-overflow: ellipsis;
+}
+.date-content .icon-show{
+	display: inline-block;
+	line-height: 32px;
+	
+
+}
+.date-deatail-content .select{
+   margin-left: 5px
+}
+.show-date-info{
+	width: 105%;
+	overflow: auto;
+	padding: 15px;
+	max-height: 150px;
+	
+}
+.show-date-info .date-config{
+	text-align: center;
+	margin-top: 10px;
+}
+.icon-show>.anticon{
+	font-size: 17px;
+	padding: 5px;
+	cursor: pointer;
+}
+

@@ -1,0 +1,56 @@
+
+.ant-layout{
+	background: #e6e6e6;
+}
+.main-content{
+	padding: 0 1px;
+}
+.main-content .bread-content{
+  height: 50px;
+  padding-left: 15px;
+  display: flex;
+  align-items: center;
+  background: #e6e6e6;
+}
+.main-content .bread-content a{
+	font-size: 16px;
+
+}
+.sider-content{
+    background: #fff;
+    font-size: 16px;
+}
+.sider-content ul span, a{
+	font-size: 14px;
+}
+.button-group button+button,select{
+   margin-left:30px 
+}
+// .form-group {
+//   margin-top: 30px
+// }
+.form-group input{
+  width: 160px
+}
+.form-group>input+input,.form-group .select,.form-group .datetime,.form-group button{
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.ant-pagination{
+   margin: 30px auto;
+   text-align: center;
+}
+.marginleft-10:before{
+   margin-left: 10px;
+   content: '';
+   display: inline-block;
+}
+.ant-pagination{
+   margin: 30px auto;
+   text-align: center;
+}
+.marginleft-30:before{
+   margin-left: 30px;
+   content: '';
+   display: inline-block;
+}
